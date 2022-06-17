@@ -2,7 +2,7 @@
 
 # Index.html changes/fix
 Changes all the <div> to their proper Syntax
-a <br />changes some of class to .benefit
+a <brchanges some of class to .benefit
 <br />added Alt="" to all the images
 <br />added title Horiseon in <title>
 <br />fixed Search Engine Optimization so when clicked sends you to that section on the page
