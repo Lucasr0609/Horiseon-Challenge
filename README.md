@@ -16,7 +16,7 @@ added <a> href="/" </a> to Horiseon header so now when you click it, it sends yo
 .benefit-lead to .benefit
 # Website links
 https://lucasr0609.github.io/Horiseon-Challenge/
-\\https://github.com/Lucasr0609/Horiseon-Challenge
+https://github.com/Lucasr0609/Horiseon-Challenge
 # You can click on the Image to send you to the website
   <a href="https://lucasr0609.github.io/Horiseon-Challenge/">
 <img src= "./assets/images/127.0.0.1_5500_Develop_index.html.png" alt="website screenshot">
