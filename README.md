@@ -15,8 +15,8 @@ added <a> href="/" </a> to Horiseon header so now when you click it, it sends yo
 # Sytle.css changes
 .benefit-lead to .benefit
 # Website links
-<a href="https://lucasr0609.github.io/Horiseon-Challenge/"></a>
-<a href="https://lucasr0609.github.io/Horiseon-Challenge/">
+https://lucasr0609.github.io/Horiseon-Challenge/
+  <a href="https://lucasr0609.github.io/Horiseon-Challenge/"></a>
 <img src= "./assets/images/127.0.0.1_5500_Develop_index.html.png" alt="website screenshot">
-</a>
 <a href="https://github.com/Lucasr0609/Horiseon-Challenge"></a>
+![](images/127.0.0.1_5500_Develop_index.html.png)
