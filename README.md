@@ -7,7 +7,6 @@ added Alt="" to all the images
 added title Horiseon in <title>
 fixed Search Engine Optimization so when clicked sends you to that section on the page
 added <a> href="/" </a> to Horiseon header so now when you click it, it sends you to the home page
-
 # Index.html removed
 .benefit-lead
 .benefit-cost
@@ -15,7 +14,8 @@ added <a> href="/" </a> to Horiseon header so now when you click it, it sends yo
 
 # Sytle.css changes
 .benefit-lead to .benefit
-
+# Website links
+<a href="https://lucasr0609.github.io/Horiseon-Challenge/"></a>
 <a href="https://lucasr0609.github.io/Horiseon-Challenge/">
 <img src= "./assets/images/127.0.0.1_5500_Develop_index.html.png" alt="website screenshot">
 </a>
