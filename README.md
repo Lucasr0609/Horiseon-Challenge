@@ -1,7 +1,7 @@
 # Horiseon Challenge
 
 # Index.html changes/fix
-Changes all the <div> to their proper Syntax
+Changes all the div to their proper Syntax
 <br />changes some of class to .benefit
 <br />added Alt="" to all the images
 <br />added title Horiseon in <title>
